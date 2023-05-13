@@ -1,0 +1,89 @@
+<i class="fa-sharp fa-solid fa-chart-mixed-up-circle-dollar"></i> top
+<i class="fa-sharp fa-solid fa-money-bill-1-wave"></i> money
+<i class="fa-solid fa-user-alien"></i> teach
+<i class="fa-solid fa-file-pen"></i> file
+<i class="fa-brands fa-facebook"></i>
+<i class="fa-brands fa-twitter"></i>
+<i class="fa-brands fa-linkedin"></i>
+<i class="fa-solid fa-location-dot"></i>
+<i class="fa-solid fa-mobile"></i>
+<i class="fa-solid fa-envelope"></i>
+<i class="fa-brands fa-youtube"></i>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="our-team">
+    <div class="container">
+        <div class="main-content">
+            <h3>OUR TEA<span>M AN</span>D EXPERTS</h3>
+            <p>It is a long established fact that a reader will be distracted by the readable content of a</p>
+        </div>
+        <div class="team">
+            <div class="box-team">
+                <div class="member">
+                    <img src="/images/img-7.png" alt="">
+                    <h3>Readable</h3>
+                    <h4>Follow Us</h4>
+                    <div class="links">
+                        <a href=""><i class="fa-brands fa-facebook"></i>
+                        </a>
+                        <a href=""><i class="fa-brands fa-twitter"></i>
+                        </a>
+                        <a href=""><i class="fa-brands fa-linkedin"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="member">
+                    <img src="/images/img-8.png" alt="">
+                    <h3>Content</h3>
+                    <h4>Follow Us</h4>
+                    <div class="links">
+                        <a href=""><i class="fa-brands fa-facebook"></i>
+                        </a>
+                        <a href=""><i class="fa-brands fa-twitter"></i>
+                        </a>
+                        <a href=""><i class="fa-brands fa-linkedin"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="member">
+                    <img src="/images/img-7.png" alt="">
+                    <h3>Readable</h3>
+                    <h4>Follow Us</h4>
+                    <div class="links">
+                        <a href=""><i class="fa-brands fa-facebook"></i>
+                        </a>
+                        <a href=""><i class="fa-brands fa-twitter"></i>
+                        </a>
+                        <a href=""><i class="fa-brands fa-linkedin"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="member">
+                    <img src="/images/img-9.png" alt="">
+                    <h3>Content</h3>
+                    <h4>Follow Us</h4>
+                    <div class="links">
+                        <a href=""><i class="fa-brands fa-facebook"></i>
+                        </a>
+                        <a href=""><i class="fa-brands fa-twitter"></i>
+                        </a>
+                        <a href=""><i class="fa-brands fa-linkedin"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
